@@ -1,0 +1,20 @@
+h1{
+  font-size: 25px;
+  text-align: center;
+  color: #00AAFF;
+}
+
+body{
+  font-family: monospace, sans-serif;
+  font-size: 16px;
+  color: #00AAFF;
+  background-image: url(images/webigs.jpeg);
+}
+
+ul li{
+  display: inline-block;
+}
+
+li{
+  list-style-type: none;
+}
